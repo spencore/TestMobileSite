@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.SCDev.testmobilesite"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Test Mobile Site</name>
+
+    <description>
+        This is my first mobile app. 
+    </description>
+
+    <author href="https://github.com/spencore" email="spencercooper@gmail.com">
+        Spencer Cooper
+    </author>
+
+</widget>
